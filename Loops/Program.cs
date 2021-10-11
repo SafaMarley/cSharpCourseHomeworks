@@ -16,6 +16,15 @@ namespace Loops
                 }
             }
 
+            int loopCounter = 1;
+            int sum = 0;
+            while (loopCounter <= number)
+            {
+                sum += loopCounter;
+                loopCounter++;
+            }
+            Console.WriteLine("Average value is = " + sum / number);
+
             int oddSum = 0;
             int evenSum = 0;
             for (int i = 0; i <= 1000; i++)
@@ -43,6 +52,27 @@ namespace Loops
                     break;
                 }
                 Console.WriteLine(i);
+            }
+
+            char character = 'a';
+            while (character <= 'z')
+            {
+                if (character == 'z')
+                {
+                    Console.Write(character);
+                }
+                else
+                {
+                    Console.Write(character + ", ");
+                }
+                character++;
+            }
+            Console.WriteLine("");
+
+            string[] cars = {"BMW", "Maserati", "Ford", "Nissan", "Honda"};
+            foreach (var car in cars)
+            {
+                Console.WriteLine(car);
             }
         }
     }
