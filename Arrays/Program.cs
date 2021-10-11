@@ -32,6 +32,43 @@ namespace Arrays
                 Sum += num;
             }
             Console.WriteLine("Average value is = " + Sum / arrayLength);
+
+            Console.WriteLine("******Not Sorted******");
+            int[] intArray = {23, 14, 2, 76, 27, 93};
+            foreach (var number in intArray)
+            {
+                Console.WriteLine(number);
+            }
+
+            Console.WriteLine("******Sorted******");
+            Array.Sort(intArray);
+            foreach (var number in intArray)
+            {
+                Console.WriteLine(number);
+            }
+
+            Console.WriteLine("******Cleared******");
+            Array.Clear(intArray, 2, 3);
+            foreach (var number in intArray)
+            {
+                Console.WriteLine(number);
+            }
+
+            Console.WriteLine("******Reversed******");
+            Array.Reverse(intArray);
+            foreach (var number in intArray)
+            {
+                Console.WriteLine(number);
+            }
+
+            Console.WriteLine("index = " + Array.IndexOf(intArray, 14));
+
+            Array.Resize<int>(ref intArray, 8);
+            intArray[7] = 69;
+            foreach (var number in intArray)
+            {
+                Console.WriteLine(number);
+            }
         }
     }
 }
