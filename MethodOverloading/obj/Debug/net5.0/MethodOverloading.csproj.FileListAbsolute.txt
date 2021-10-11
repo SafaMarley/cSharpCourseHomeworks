@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\MethodOverloading\obj\Debug\net5.0\MethodOverloading.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\MethodOverloading\obj\Debug\net5.0\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\MethodOverloading\obj\Debug\net5.0\MethodOverloading.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\MethodOverloading\obj\Debug\net5.0\MethodOverloading.AssemblyInfo.cs
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\MethodOverloading\obj\Debug\net5.0\MethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\MethodOverloading\bin\Debug\net5.0\MethodOverloading.exe
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\MethodOverloading\bin\Debug\net5.0\MethodOverloading.deps.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\MethodOverloading\bin\Debug\net5.0\MethodOverloading.runtimeconfig.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\MethodOverloading\bin\Debug\net5.0\MethodOverloading.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\MethodOverloading\bin\Debug\net5.0\MethodOverloading.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\MethodOverloading\bin\Debug\net5.0\ref\MethodOverloading.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\MethodOverloading\bin\Debug\net5.0\MethodOverloading.pdb
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\MethodOverloading\obj\Debug\net5.0\MethodOverloading.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\MethodOverloading\obj\Debug\net5.0\ref\MethodOverloading.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\MethodOverloading\obj\Debug\net5.0\MethodOverloading.pdb
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\MethodOverloading\obj\Debug\net5.0\MethodOverloading.genruntimeconfig.cache
