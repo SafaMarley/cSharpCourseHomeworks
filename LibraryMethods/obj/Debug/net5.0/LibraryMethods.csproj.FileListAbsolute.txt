@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\LibraryMethods\bin\Debug\net5.0\LibraryMethods.exe
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\LibraryMethods\bin\Debug\net5.0\LibraryMethods.deps.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\LibraryMethods\bin\Debug\net5.0\LibraryMethods.runtimeconfig.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\LibraryMethods\bin\Debug\net5.0\LibraryMethods.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\LibraryMethods\bin\Debug\net5.0\LibraryMethods.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\LibraryMethods\bin\Debug\net5.0\ref\LibraryMethods.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\LibraryMethods\bin\Debug\net5.0\LibraryMethods.pdb
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\LibraryMethods\obj\Debug\net5.0\LibraryMethods.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\LibraryMethods\obj\Debug\net5.0\LibraryMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\LibraryMethods\obj\Debug\net5.0\LibraryMethods.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\LibraryMethods\obj\Debug\net5.0\LibraryMethods.AssemblyInfo.cs
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\LibraryMethods\obj\Debug\net5.0\LibraryMethods.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\LibraryMethods\obj\Debug\net5.0\LibraryMethods.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\LibraryMethods\obj\Debug\net5.0\ref\LibraryMethods.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\LibraryMethods\obj\Debug\net5.0\LibraryMethods.pdb
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\LibraryMethods\obj\Debug\net5.0\LibraryMethods.genruntimeconfig.cache
