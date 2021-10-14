@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace Lists
@@ -85,6 +86,31 @@ namespace Lists
                 Console.WriteLine(user.Surname);
                 Console.WriteLine(user.Age);
             }
+
+            ArrayList myArrayList = new ArrayList();
+            myArrayList.Add("Hi!");
+            myArrayList.Add(5);
+            myArrayList.Add(true);
+            myArrayList.Add('S');
+            myArrayList.Add(10.5);
+            myArrayList.AddRange(numberList);
+            myArrayList.AddRange(colorList);
+
+            //myArrayList.Sort();   //only if all the elements are number
+
+            foreach (var item in myArrayList)
+            {
+                Console.WriteLine(item);
+            }
+
+            myArrayList.Reverse();
+            
+            foreach (var item in myArrayList)
+            {
+                Console.WriteLine(item);
+            }
+
+            myArrayList.Clear();
         }
     }
 
