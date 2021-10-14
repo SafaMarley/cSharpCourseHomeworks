@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Homework2\ListsQuestion1\bin\Debug\net5.0\ListsQuestion1.exe
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Homework2\ListsQuestion1\bin\Debug\net5.0\ListsQuestion1.deps.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Homework2\ListsQuestion1\bin\Debug\net5.0\ListsQuestion1.runtimeconfig.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Homework2\ListsQuestion1\bin\Debug\net5.0\ListsQuestion1.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Homework2\ListsQuestion1\bin\Debug\net5.0\ListsQuestion1.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Homework2\ListsQuestion1\bin\Debug\net5.0\ref\ListsQuestion1.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Homework2\ListsQuestion1\bin\Debug\net5.0\ListsQuestion1.pdb
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Homework2\ListsQuestion1\obj\Debug\net5.0\ListsQuestion1.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Homework2\ListsQuestion1\obj\Debug\net5.0\ListsQuestion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Homework2\ListsQuestion1\obj\Debug\net5.0\ListsQuestion1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Homework2\ListsQuestion1\obj\Debug\net5.0\ListsQuestion1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Homework2\ListsQuestion1\obj\Debug\net5.0\ListsQuestion1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Homework2\ListsQuestion1\obj\Debug\net5.0\ListsQuestion1.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Homework2\ListsQuestion1\obj\Debug\net5.0\ref\ListsQuestion1.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Homework2\ListsQuestion1\obj\Debug\net5.0\ListsQuestion1.pdb
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Homework2\ListsQuestion1\obj\Debug\net5.0\ListsQuestion1.genruntimeconfig.cache
