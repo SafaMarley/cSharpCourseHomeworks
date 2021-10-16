@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Structs\bin\Debug\net5.0\Structs.exe
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Structs\bin\Debug\net5.0\Structs.deps.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Structs\bin\Debug\net5.0\Structs.runtimeconfig.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Structs\bin\Debug\net5.0\Structs.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Structs\bin\Debug\net5.0\Structs.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Structs\bin\Debug\net5.0\ref\Structs.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Structs\bin\Debug\net5.0\Structs.pdb
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Structs\obj\Debug\net5.0\Structs.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Structs\obj\Debug\net5.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Structs\obj\Debug\net5.0\Structs.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Structs\obj\Debug\net5.0\Structs.AssemblyInfo.cs
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Structs\obj\Debug\net5.0\Structs.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Structs\obj\Debug\net5.0\Structs.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Structs\obj\Debug\net5.0\ref\Structs.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Structs\obj\Debug\net5.0\Structs.pdb
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\Structs\obj\Debug\net5.0\Structs.genruntimeconfig.cache
