@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\StaticClasses\bin\Debug\net5.0\StaticClasses.exe
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\StaticClasses\bin\Debug\net5.0\StaticClasses.deps.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\StaticClasses\bin\Debug\net5.0\StaticClasses.runtimeconfig.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\StaticClasses\bin\Debug\net5.0\StaticClasses.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\StaticClasses\bin\Debug\net5.0\StaticClasses.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\StaticClasses\bin\Debug\net5.0\ref\StaticClasses.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\StaticClasses\bin\Debug\net5.0\StaticClasses.pdb
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\StaticClasses\obj\Debug\net5.0\StaticClasses.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\StaticClasses\obj\Debug\net5.0\StaticClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\StaticClasses\obj\Debug\net5.0\StaticClasses.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\StaticClasses\obj\Debug\net5.0\StaticClasses.AssemblyInfo.cs
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\StaticClasses\obj\Debug\net5.0\StaticClasses.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\StaticClasses\obj\Debug\net5.0\StaticClasses.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\StaticClasses\obj\Debug\net5.0\ref\StaticClasses.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\StaticClasses\obj\Debug\net5.0\StaticClasses.pdb
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\StaticClasses\obj\Debug\net5.0\StaticClasses.genruntimeconfig.cache

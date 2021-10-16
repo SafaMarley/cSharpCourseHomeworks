@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\EncapsulationAndProperties\bin\Debug\net5.0\EncapsulationAndProperties.exe
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\EncapsulationAndProperties\bin\Debug\net5.0\EncapsulationAndProperties.deps.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\EncapsulationAndProperties\bin\Debug\net5.0\EncapsulationAndProperties.runtimeconfig.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\EncapsulationAndProperties\bin\Debug\net5.0\EncapsulationAndProperties.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\EncapsulationAndProperties\bin\Debug\net5.0\EncapsulationAndProperties.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\EncapsulationAndProperties\bin\Debug\net5.0\ref\EncapsulationAndProperties.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\EncapsulationAndProperties\bin\Debug\net5.0\EncapsulationAndProperties.pdb
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\EncapsulationAndProperties\obj\Debug\net5.0\EncapsulationAndProperties.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\EncapsulationAndProperties\obj\Debug\net5.0\EncapsulationAndProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\EncapsulationAndProperties\obj\Debug\net5.0\EncapsulationAndProperties.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\EncapsulationAndProperties\obj\Debug\net5.0\EncapsulationAndProperties.AssemblyInfo.cs
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\EncapsulationAndProperties\obj\Debug\net5.0\EncapsulationAndProperties.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\EncapsulationAndProperties\obj\Debug\net5.0\EncapsulationAndProperties.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\EncapsulationAndProperties\obj\Debug\net5.0\ref\EncapsulationAndProperties.dll
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\EncapsulationAndProperties\obj\Debug\net5.0\EncapsulationAndProperties.pdb
+C:\Users\Asus\Desktop\cSharpCourse\cSharpCourseHomeworks\EncapsulationAndProperties\obj\Debug\net5.0\EncapsulationAndProperties.genruntimeconfig.cache
