@@ -29,6 +29,7 @@ namespace Classes
             emp1.name = "John";
             emp1.surname = "Wick";
             emp1.department = "Engineering";
+            Console.WriteLine("****************");
             emp1.EmployeeInfo();
 
             Employee emp2 = new Employee();
@@ -36,7 +37,16 @@ namespace Classes
             emp2.name = "Darlene";
             emp2.surname = "Ericksen";
             emp2.department = "Human Resources";
+            Console.WriteLine("****************");
             emp2.EmployeeInfo();
+
+            Employee emp3 = new Employee(01100110, "Hugh", "Jackman", "Marketing");
+            Console.WriteLine("****************");
+            emp3.EmployeeInfo();
+
+            Employee emp4 = new Employee(10011001, "Morgan", "James");
+            Console.WriteLine("****************");
+            emp4.EmployeeInfo();
         }
     }
 
@@ -46,6 +56,29 @@ namespace Classes
         public string name;
         public string surname;
         public string department;
+
+        //Constructor
+        public Employee(int no, string name, string surname, string department)
+        {
+            this.no = no;
+            this.name = name;
+            this.surname = surname;
+            this.department = department;
+        }
+
+        //Overloading
+        public Employee(int no, string name, string surname)
+        {
+            this.no = no;
+            this.name = name;
+            this.surname = surname;
+        }
+
+        //for John and Darlene
+        public Employee()
+        {
+
+        }
 
         public void EmployeeInfo()
         {
