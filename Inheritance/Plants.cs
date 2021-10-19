@@ -15,6 +15,12 @@ namespace Inheritance
         {
             Console.WriteLine("Most plants must produce their own food by chemicals.");
         }
+
+        public override void Responding()
+        {
+            //base.Responding();
+            Console.WriteLine("Plants do react.");
+        }
     }
 
     public class PlantsWithSeeds:Plants
@@ -22,6 +28,7 @@ namespace Inheritance
         public PlantsWithSeeds()
         {
             base.Autotrophs();
+            base.Responding();
         }
 
         public void breedWithSeeds()
@@ -35,6 +42,7 @@ namespace Inheritance
         public PlantsWithoutSeeds()
         {
             base.Autotrophs();
+            base.Responding();
         }
 
         public void breedWitouthSeeds()

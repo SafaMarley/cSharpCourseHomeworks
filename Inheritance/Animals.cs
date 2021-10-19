@@ -15,6 +15,12 @@ namespace Inheritance
         {
             Console.WriteLine("All animals must consume living or dead organisms.");
         }
+
+        public override void Responding()
+        {
+            base.Responding();
+            Console.WriteLine("Animals do react.");
+        }
     }
 
     public class Reptiles:Animals
@@ -22,6 +28,8 @@ namespace Inheritance
         public Reptiles()
         {
             base.Adaptation();
+            base.Responding();
+
         }
 
         public void Movement()
@@ -35,6 +43,7 @@ namespace Inheritance
         public Birds()
         {
             base.Adaptation();
+            base.Responding();
         }
 
         public void Movement()
