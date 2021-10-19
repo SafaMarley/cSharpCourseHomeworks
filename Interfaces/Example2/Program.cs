@@ -20,6 +20,23 @@ namespace Example2
             Console.WriteLine("Brand: " + focus.WhichBrand().ToString());
             Console.WriteLine("Number of wheels: " + focus.NumberOfWheels().ToString());
             Console.WriteLine("Default color: " + focus.DefaultColor().ToString());
+
+            Console.WriteLine("************************ABSTRACTS************************");
+
+            NewFocus newFocus = new NewFocus();
+            Console.WriteLine("Brand: " + newFocus.WhichBrand().ToString());
+            Console.WriteLine("Number of wheels: " + newFocus.NumberOfWheels().ToString());
+            Console.WriteLine("Default color: " + newFocus.DefaultColor().ToString());
+
+            NewCorolla newCorolla = new NewCorolla();
+            Console.WriteLine("Brand: " + newCorolla.WhichBrand().ToString());
+            Console.WriteLine("Number of wheels: " + newCorolla.NumberOfWheels().ToString());
+            Console.WriteLine("Default color: " + newCorolla.DefaultColor().ToString());
+
+            NewCivic newCivic = new NewCivic();
+            Console.WriteLine("Brand: " + newCivic.WhichBrand().ToString());
+            Console.WriteLine("Number of wheels: " + newCivic.NumberOfWheels().ToString());
+            Console.WriteLine("Default color: " + newCivic.DefaultColor().ToString());                        
         }
     }
 }
